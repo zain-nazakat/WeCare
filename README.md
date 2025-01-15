@@ -1,0 +1,4 @@
+# WeCare
+
+WeCare is a comprehensive web application designed to streamline and enhance the process of charitable giving and volunteering. The platform facilitates the donation of surplus goods from individuals to NGOs by allowing donors to list items they wish to give away and NGOs to browse and claim these donations. Additionally, NGOs can use the platform to list requests for volunteers with specific skills or general help, which individuals can then browse and accept.
+Beyond facilitating donations and volunteering, WeCare also serves as an educational resource. It presents research and statistics on food waste, poverty, and the impact of charitable actions, along with educational content to raise awareness and encourage participation. Furthermore, the application includes an interactive map-based ambulance service locator, enabling users to quickly find and contact nearby free ambulance services in case of emergencies.
